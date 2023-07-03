@@ -1,0 +1,9 @@
+@charset "utf-8";
+html {
+    font-family: "ヒラギノ角ゴ", "MS Pゴシック", sans-serif;
+}
+
+a.black {
+    color:black;
+    text-decoration: none;
+}
